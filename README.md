@@ -30,3 +30,7 @@ $ docker-compose up python
 
 Access the application using http://localhost:5003/match
 
+
+## What is next? 
+1. Read the documents and compare them via `/match` route
+2. Upload & Save documents in the service
