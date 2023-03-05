@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+pandas
+numpy
+PyPDF2==2.12.1
+pdfplumber
+werkzeug
